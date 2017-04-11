@@ -1,8 +1,8 @@
 ---
 applications:
-- name: personality-insights-livedemo
+- name: cognitive_drinks_demo_nz
   command: npm start
-  path: .
+  path: cognitive_drinks_demo_nz
   memory: 512M
   instances: 1
   services:
